@@ -6,9 +6,7 @@ export default function HolaMundom(){
         <h1>
            Hola Mundo
         </h1>
-        <h3>
-           M. Isabel Fernandez de Larrinoa Alutiz
-        </h3>
+        
         </div>
     );
 }
